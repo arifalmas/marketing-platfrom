@@ -1,3 +1,4 @@
 # marketing-platfrom
 
 - Tailwind
+-react
