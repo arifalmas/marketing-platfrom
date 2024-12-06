@@ -3,3 +3,4 @@
 - Tailwind
 
 - react 
+- javascript
