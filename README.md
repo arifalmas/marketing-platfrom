@@ -2,5 +2,4 @@
 
 - Tailwind
 
-- react 
 
