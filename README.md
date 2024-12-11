@@ -1,6 +1,4 @@
 # marketing-platfrom
-
-- Tailw
   
 
 
