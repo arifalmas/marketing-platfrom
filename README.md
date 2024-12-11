@@ -1,6 +1,6 @@
 # marketing-platfrom
 
 - Tailwind
-- Next
+  
 
 
