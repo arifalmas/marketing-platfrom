@@ -2,5 +2,5 @@
 
 - Tailwind
 - Next js
-- R
+- 
 
